@@ -19,7 +19,7 @@ mastering-plone/index
 mastering-plone-5/index
 react/index
 volto/index
-voltohandson/index
+[x] voltohandson/index
 voltoaddons/index
 testing/index
 theming/index
