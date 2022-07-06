@@ -80,7 +80,7 @@ teaching/index
 
 : Build a custom website using Volto and the Plone REST API.
 
-{doc}`voltohandson/index`
+[x] {doc}`voltohandson/index`
 
 : Learn how to quickly bootstrap and customize a Volto project
 
