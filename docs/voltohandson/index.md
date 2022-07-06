@@ -21,18 +21,18 @@ which is intended as a half day training for people who already know the basics 
 :maxdepth: 2
 :numbered: true
 
-intro
-quickstart
-requirements
-starttheming
-header
-footer
-breadcrumbs
-introtoblocks
-blocksmainslider
-contenttypesviews
-highlightsblock
-blocksedit
+[x] intro
+[x] quickstart
+[x] requirements
+[x] starttheming
+[x] header
+[x] footer
+[x] breadcrumbs
+[x] introtoblocks
+[x] blocksmainslider
+[x] contenttypesviews
+[x] highlightsblock
+[x] blocksedit
 ```
 
 This training was created by Victor Fernandez de Alba (sneridagh).
